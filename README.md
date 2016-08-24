@@ -3,14 +3,16 @@
 
 TOC
 
-- [Tool or hack][] - Name of person presenting
+- [Name of your hack/tool](#hack1)
 
 
 
 ---
 
-### Tool or hack ###
+---- 
 
-include notes, links, installation instructions and code here.
+## <a name="hack1"></a> Name of your hack/tool
+
+include a short description, notes, links, installation instructions and code here.
 
 
