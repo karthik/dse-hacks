@@ -5,8 +5,8 @@ To send a PR, fork the repo, add your hack to the TOC and the body of the README
 
 TOC
 
-- [Name of your hack/tool](#hack1)
-
+- [Name of your hack/tool](#hack1) -- name
+- [screen](#screen) -- Stuart Geiger
 
 
 ---- 
@@ -15,4 +15,6 @@ TOC
 
 include a short description, notes, links, installation instructions and code here.
 
+## <a name="screen"></a> Screen
 
+[Screen](https://www.gnu.org/software/screen/manual/screen.html) is a command line program that is super useful if you are SSHing into another machine. It lets you have multiple virtual terminal sessions that will persist even if you get disconnected or log off. 
