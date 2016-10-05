@@ -1,5 +1,5 @@
 # List of hacks from Hackroulette
-3 - 4pm, Sunset Lounge 2
+Tuesday, 3 - 4pm, Sunset Lounge 2
 
 --- 
 To send a PR, fork the repo, add your hack to the TOC like so:
